@@ -1,0 +1,16 @@
+Booking Number: 14
+Name: 1
+Number: 1
+Email: 1
+City of Departure: LAHORE
+City of Arrival: JADDAH
+Time of Departure:	09:30AM
+Time of Arrival:	01:00PM
+Duration:	03:30
+Type:	INTERNATIONAL
+Distance:	2000
+Date:	2021/03/11
+Seat Type:	2
+Price:	27500
+Age:	21
+Seat Number:	3A

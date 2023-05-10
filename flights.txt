@@ -1,0 +1,11 @@
+___________________________________________________________________________________________________________________________
+ NO  	  FROM    	  TO         DEPARTURE TIME   ARRIVAL TIME    DURATION(hr)   TYPE	 DISTANCE(km)	DATE(y/m/d)
+___________________________________________________________________________________________________________________________	
+ 1	RAWALPINDI	LAHORE 		09:00AM     	11:00AM		 02:00	   DOMESTIC	    350		 2021/03/05
+ 2   	JHELUM		RAWALPINDI 	09:30AM 	11:00AM 	 01:30	   DOMESTIC  	    110		 2021/03/05
+ 3   	RAWALPINDI	KARACHI 	10:00AM 	12:30PM  	 02:30	   DOMESTIC	    700		 2021/03/05
+ 4   	KARACHI 	RAWALPINDI	09:00AM 	11:30AM 	 02:30	   DOMESTIC 	    700		 2021/03/07
+ 5   	MULTAN 		LAHORE		01:00PM 	02:30PM 	 01:30	   DOMESTIC 	    300		 2021/03/05
+ 6   	RAWALPINDI 	SYDNEY 		09:00AM		02:30PM 	 05:30	   INTERNATIONAL    3000	 2021/03/06
+ 7   	LAHORE 		JADDAH 		09:30AM		01:00PM 	 03:30	   INTERNATIONAL    2000	 2021/03/11
+ 8   	BEIJING 	KARACHI 	10:00AM 	02:00PM 	 04:00	   INTERNATIONAL    1100	 2021/03/08
